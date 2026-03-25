@@ -1,51 +1,127 @@
-# 👋 Olá, eu sou o Ramon Pedroso  
+# 👨‍💻 Ramón Pedroso
 
-💻 Desenvolvedor apaixonado por tecnologia e aprendizado constante.  
-🚀 Trabalho com **Python**, **PostgreSQL**, **FastAPI**, **Kivy**, **CustomTkinter**, **Pandas** e **NumPy**.  
-🎯 Objetivo: Criar soluções que simplificam o dia a dia das pessoas e otimizam processos.  
+**Desenvolvedor Back-end Python | Integrações & ETL | FastAPI | PostgreSQL**
 
----
+📍 Campinas – SP  
+📧 ramondeborbon231@gmail.com  
+📱 (55) 19-982559684  
 
-## 🧰 Tecnologias e Ferramentas
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-1C1C1C?style=for-the-badge&logo=kivy&logoColor=white)
-![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1E90FF?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-</div>
+🔗 [LinkedIn](#) | [GitHub](#)
 
 ---
 
-## 🌟 Projetos em Destaque
-- 🔗 [**API de Requisição de Exames**](https://github.com/ramonpedroso/api-exames): API FastAPI conectada ao PostgreSQL com métodos GET e POST.
-- 📈 [**Sistema de Indicadores RH**](https://github.com/ramonpedroso/indicadores): Dashboard com métricas e gráficos interativos usando NiceGUI.
-- 🧩 [**App de Cadastro de Clientes e Integrações**](https://github.com/ramonpedroso/cadastro-clientes): Sistema completo com interface CustomTkinter e banco PostgreSQL.
+## 💡 Sobre mim
+
+Sou Desenvolvedor Back-end com foco em **integrações entre sistemas** e desenvolvimento de **APIs REST** utilizando Python (FastAPI) e PHP (Laravel).
+
+Tenho experiência na construção de **processos de ETL**, garantindo a extração, transformação e persistência de dados de forma eficiente em bancos PostgreSQL.
+
+Atuo em ambiente corporativo com foco em:
+- ⚡ Performance
+- 📈 Escalabilidade
+- 🧩 Organização de dados
+- ✅ Qualidade de código
+
+🗣️ Inglês Avançado (C1)
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-<div align="center">
+## 🛠️ Stack Técnica
 
-![Ramon's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonpedroso&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonpedroso&layout=compact&theme=tokyonight&hide_border=true)
+### 💻 Linguagens
+- Python (Pandas, NumPy)
+- PHP
+- SQL
 
-</div>
+### ⚙️ Frameworks
+- FastAPI
+- Django REST Framework
+- Laravel
+
+### 🧰 Ferramentas
+- Git & GitHub
+- Linux
+- Postman
+- Pytest
+- Docker
+
+### 🗄️ Banco de Dados
+- PostgreSQL
+- MySQL
+
+### 📚 Conceitos
+- REST APIs
+- ETL
+- Integrações entre sistemas
+- Padrão MVC
+- Scrum / Agile
 
 ---
 
-## 🌐 Onde me encontrar
-<div align="center">
+## 💼 Experiência Profissional
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramonpedroso)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramonpedroso)
+### 🏢 Wareline do Brasil  
+**Desenvolvedor Back-end Jr.**  
+📅 Out/2024 – Atual  
 
-</div>
+**Principais atividades:**
+- Desenvolvimento de APIs REST com FastAPI e Laravel  
+- Criação e manutenção de endpoints com validações e tratamento de dados  
+- Modelagem e otimização de consultas SQL em PostgreSQL  
+- Desenvolvimento de integrações entre sistemas internos e externos  
+- Customizações e novas funcionalidades em ERP (Python + PostgreSQL)  
+- Criação de telas, regras de negócio e debugging de sistemas  
+- Desenvolvimento de processos ETL com Python (Pandas) e PHP  
 
 ---
 
-✨ _"Aprender é o primeiro passo para transformar."_ ✨
+## 🚀 Projetos em Destaque
+
+### 🔗 Integrador LMS NEXT
+
+- Desenvolvimento de API em FastAPI para integração com API externa  
+- Sincronização de **+500 usuários, cursos e status**  
+- Modelagem e persistência de dados em PostgreSQL  
+- Criação de sistema web interno com dashboard interativo  
+- Centralização de dados para análise e indicadores  
+
+---
+
+### 📊 Indicadores Wareline
+
+- Otimização de queries SQL complexas (execução em até 15s)  
+- Desenvolvimento de sistema interno para análise de indicadores  
+- Interface com filtros e buscas para todos os colaboradores  
+- Dados alinhados à **ISO 9001:2015**  
+- Implementação de ETL com Python (Pandas)  
+
+---
+
+## 🎓 Formação Acadêmica
+
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas  
+📍 Universidade Paulista (2024 – 2027)
+
+---
+
+## 📜 Certificações
+
+- Alura - Programação Orientada a Objetos com Python  
+- Alura - Framework Laravel PHP  
+
+---
+
+## 🌎 Idiomas
+
+🇺🇸 Inglês Avançado (C1)  
+✔️ Leitura  
+✔️ Escrita  
+✔️ Conversação técnica e verbal  
+
+---
+
+## 📌 Objetivo
+
+Atuar como Desenvolvedor Back-end, focado em construção de APIs, integrações e soluções escaláveis, contribuindo para projetos que gerem impacto real através da tecnologia.
+
+---
