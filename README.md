@@ -6,7 +6,6 @@
 📧 ramondeborbon231@gmail.com  
 📱 (55) 19-982559684  
 
-🔗 [LinkedIn](www.linkedin.com/in/ramon-de-borbón-maldonado-pedroso) | [GitHub](#)
 Linkedin: www.linkedin.com/in/ramon-de-borbón-maldonado-pedroso
 
 ---
